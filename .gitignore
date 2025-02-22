@@ -1,0 +1,5 @@
+*.csv
+*.png
+!reports/baseline_model_results.csv
+!reports/baseline_model_report.md
+!reports/datav1.6_RandomForestClassifier_confusion_matrix.png
